@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Plataforma
+comment1.params=
+comment1.target=Plataforma()
+comment2.params=ancho\ alto
+comment2.target=Plataforma(int,\ int)
+numComments=3
