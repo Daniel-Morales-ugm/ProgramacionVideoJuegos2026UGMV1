@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EnemigoPesado
+comment1.params=objetivo\ vida\ velocidad\ danio
+comment1.target=EnemigoPesado(Jugador,\ int,\ int,\ int)
+numComments=2
