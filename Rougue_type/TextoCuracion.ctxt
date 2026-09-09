@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TextoCuracion
+comment1.params=cantidad
+comment1.target=TextoCuracion(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
